@@ -1,23 +1,28 @@
 h1
 {
 	color:#992700;
-	background-color:#4C4340;
+	font-family: "Arial";
+	font-size: 2.5em;
 }
 
 h2
 {
 	color:#992700;
+	font-family: "Arial";
+	font-size: 1.8em;
+	
 }
 
 body
 {
 	color:#945200;
 	background-color:black;
+	font-family: "Times New Roman";
 }
 
-
+p
 {
-	
+	font-size: 1.25em;
 }
 
 
