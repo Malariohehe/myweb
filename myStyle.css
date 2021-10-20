@@ -25,7 +25,35 @@ p
 	font-size: 1.25em;
 }
 
-
+nav
 {
 	
+}
+
+nav li
+{
+	display: inline;
+	padding-right: 40px;
+}
+
+nav a:Link
+{
+	text-decoration:none;
+	color:#945200;
+}
+
+nav a:visited
+{
+	color:#945200;
+}
+
+nav a:hover
+{
+	text-decoration:underline;
+}
+
+nav a:Active
+{
+	color:white;
+	text-decoration:underline;
 }
