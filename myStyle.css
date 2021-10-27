@@ -3,6 +3,9 @@ h1
 	color:#992700;
 	font-family: "Arial";
 	font-size: 2.5em;
+	border: double medium ;
+	padding: 15px 10px 15px;
+	margin: 10px 15px 10px;
 }
 
 h2
@@ -37,7 +40,6 @@ nav li
 
 nav a:link
 {
-	
 	color:#945200;
 }
 
