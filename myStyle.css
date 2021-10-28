@@ -6,6 +6,7 @@ h1
 	border: double medium ;
 	padding: 15px 10px 15px;
 	margin: 10px 15px 10px;
+	
 }
 
 h2
@@ -13,20 +14,24 @@ h2
 	color:#992700;
 	font-family: "Arial";
 	font-size: 1.8em;
-	
+	border: solid thin;
+	padding: 15px 10px 15px;
+	margin: 10px 15px 10px;
 }
 
 body
 {
 	color:#945200;
-	background-color:black;
 	font-family: "Times New Roman";
 	text-indent:2em;
+	background-image: url(images/paper.jfif);
 }
 
 p
 {
 	font-size: 1.25em;
+	margin: 20px;
+	padding: 15px;
 }
 
 
