@@ -64,3 +64,19 @@ nav a:Active
 	color:white;
 	text-decoration:underline;
 }
+
+table
+{
+	border: double medium;
+	
+}
+td
+{
+	border: double medium;
+	
+}
+
+th
+{
+	padding-right: 20px;
+}
