@@ -68,15 +68,15 @@ nav a:Active
 table
 {
 	border: double medium;
-	
+	margin-left: 250px;
 }
 td
 {
 	border: double medium;
-	
 }
 
 th
 {
 	padding-right: 20px;
+	color:#B22121;
 }
