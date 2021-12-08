@@ -68,7 +68,7 @@ nav a:Active
 table
 {
 	border: double medium;
-	margin-left: 250px;
+	margin: auto;
 }
 td
 {
